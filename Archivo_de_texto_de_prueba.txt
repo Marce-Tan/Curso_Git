@@ -1,7 +1,11 @@
 
 Algo de prueba
-Otra modificación
+Otra modificaciÃ³n
 Algo
 Otro
+<<<<<<< HEAD
 Seguimos
 
+=======
+Siempre
+>>>>>>> 36f784cffa1742be343afde4b48ff55085051503
